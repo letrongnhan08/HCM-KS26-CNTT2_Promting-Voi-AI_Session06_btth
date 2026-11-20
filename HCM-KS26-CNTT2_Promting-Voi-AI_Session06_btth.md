@@ -91,6 +91,8 @@ Chỉ xuất JSON hợp lệ theo schema:
 {"total":number,"gaps":["string"],"question":"...","sanitized_answer":"..."}
 ```
 
+**kết quả đầu ra:**
+
 Ví dụ:
 
 câu trả lời của sinh viên:
